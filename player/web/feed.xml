@@ -1,63 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Creative Engineering</title>
-    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
+    <title>Stuck in Line</title>
+    <googleplay:author>Julia Warner</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>San Francisco, California</rawvoice:location>
+    <rawvoice:location>Orlando, Florida</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Rody Davis, Norbert Kozsir</author>
-    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-    <itunes:email>rody.davis.jr@gmail.com</itunes:email>
-    <itunes:category text="Technology" />
+    <author>Julia Warner</author>
+    <itunes:author>Julia Warner</itunes:author>
+    <itunes:email>juliawarner004@gmail.com</itunes:email>
+    <itunes:category text="Leisure" />
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
+      <url>https://github.com/juliawarner/Stuck_in_Line/player/web/icons/SIL_Cover.png</url>
+      <title>Stuck in Line</title>
     </image>
     <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+      <itunes:name>Julia Warner</itunes:name>
+      <itunes:email>juliawarner004@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <itunes:keywords>theme park,disney,universal,entertainment,Orlando</itunes:keywords>
+    <copyright>Julia Warner 2020</copyright>
+    <description>Join me as I share with my friends the kind of fun facts, stories, and history I would talk about if we were stuck in line at a theme park together!</description>
+    <googleplay:image href="https://github.com/juliawarner/Stuck_in_Line/player/web/icons/SIL_Cover.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <pubDate>Fri, 20 Nov 2020 13:00:00 EST</pubDate>
+    <link>https://github.com/juliawarner/Stuck_in_Line/tree/main/player/web/feed.xml</link>
+    <itunes:image href="https://github.com/juliawarner/Stuck_in_Line/player/web/icons/SIL_Cover.png" />
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
+      <author>Julia Warner</author>
+      <itunes:author>Julia Warner</itunes:author>
+      <title>Episode 0: Testing, Testing</title>
+      <pubDate>Fri, 20 Nov 2020 15:30:00 EST</pubDate>
+      <enclosure url="https://github.com/juliawarner/Stuck_in_Line/player/web/audio/Ep0.mp3" type="audio/mpeg" length="3335231" />
+      <itunes:duration>1:44</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
+Welcome to the podcast! I hope this beutiful audio test featuring my lovely melodica cover of the Epcot ambient music is pleasing to your ears. 
         </description>
     </item>
   </channel>
