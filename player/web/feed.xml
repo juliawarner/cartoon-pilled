@@ -11,7 +11,7 @@
     <itunes:email>juliawarner004@gmail.com</itunes:email>
     <itunes:category text="Leisure" />
     <image>
-      <url>https://github.com/juliawarner/Stuck_in_Line/player/web/icons/SIL_Cover.png</url>
+      <url>https://juliawarner.github.io/Stuck_in_Line/player/web/icons/SIL_Cover.png</url>
       <title>Stuck in Line</title>
     </image>
     <itunes:owner>
@@ -21,18 +21,18 @@
     <itunes:keywords>theme park,disney,universal,entertainment,Orlando</itunes:keywords>
     <copyright>Julia Warner 2020</copyright>
     <description>Join me as I share with my friends the kind of fun facts, stories, and history I would talk about if we were stuck in line at a theme park together!</description>
-    <googleplay:image href="https://github.com/juliawarner/Stuck_in_Line/player/web/icons/SIL_Cover.png" />
+    <googleplay:image href="https://juliawarner.github.io/Stuck_in_Line/player/web/icons/SIL_Cover.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Fri, 20 Nov 2020 13:00:00 EST</pubDate>
-    <link>https://github.com/juliawarner/Stuck_in_Line/tree/main/player/web/feed.xml</link>
-    <itunes:image href="https://github.com/juliawarner/Stuck_in_Line/player/web/icons/SIL_Cover.png" />
+    <link>https://juliawarner.github.io/Stuck_in_Line/player/web/feed.xml</link>
+    <itunes:image href="https://juliawarner.github.io/Stuck_in_Line/player/web/icons/SIL_Cover.png" />
     <item>
       <author>Julia Warner</author>
       <itunes:author>Julia Warner</itunes:author>
       <title>Episode 0: Testing, Testing</title>
       <pubDate>Fri, 20 Nov 2020 15:30:00 EST</pubDate>
-      <enclosure url="https://github.com/juliawarner/Stuck_in_Line/player/web/audio/Ep0.mp3" type="audio/mpeg" length="3335231" />
+      <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep0.mp3" type="audio/mpeg" length="3335231" />
       <itunes:duration>1:44</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
