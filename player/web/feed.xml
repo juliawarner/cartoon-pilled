@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xmlns:spotify="https://www.spotify.com/ns/rss">
   <channel>
     <title>Stuck in Line</title>
     <googleplay:author>Julia Warner</googleplay:author>
@@ -10,6 +10,8 @@
     <itunes:author>Julia Warner</itunes:author>
     <itunes:email>juliawarner004@gmail.com</itunes:email>
     <itunes:category text="Leisure" />
+    <itunes:complete>no</itunes:complete>
+    <itunes:type>episodic</itunes:type>
     <image>
       <url>https://juliawarner.github.io/Stuck_in_Line/player/web/icons/SIL_Cover.png</url>
       <title>Stuck in Line</title>
@@ -52,6 +54,7 @@ Welcome to the podcast! I hope this beautiful audio test featuring my lovely mel
       <description>
 In this, our very first episode, Julia and Jin discuss the turbulant history of everyone's favorite Epcot attraction: Journey Into Imagination With Figment! We discuss all three incarnations of the ride and dutifully try our best to honor Figment as the cultural and religious icon that he is. 
       </description>
+      <itunes:keywords>figment,disney,epcot,dreamfinder,imagination</itunes:keywords>
     </item>
   </channel>
 </rss>
