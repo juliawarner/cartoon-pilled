@@ -32,29 +32,30 @@
     <item>
       <author>Julia Warner</author>
       <itunes:author>Julia Warner</itunes:author>
-      <title>Episode 0: Testing, Testing</title>
-      <pubDate>Fri, 20 Nov 2020 15:30:00 EST</pubDate>
-      <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep0.mp3" type="audio/mpeg" length="3335231" />
-      <itunes:duration>1:44</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
-      <itunes:explicit>no</itunes:explicit>
-      <description>
-Welcome to the podcast! I hope this beautiful audio test featuring my lovely melodica cover of the Epcot ambient music is pleasing to your ears. 
-      </description>
-    </item>
-    <item>
-      <author>Julia Warner</author>
-      <itunes:author>Julia Warner</itunes:author>
-      <title>Episode 1: Figment Lives!</title>
+      <title>Figment Lives!</title>
       <pubDate>Mon, 28 Dec 2020 17:30:00 EST</pubDate>
       <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep1.mp3" type="audio/mpeg" length="45230625" />
       <itunes:duration>23:33</itunes:duration>
-      <guid isPermaLink="false">cepod02</guid>
+      <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
 In this, our very first episode, Julia and Jin discuss the turbulant history of everyone's favorite Epcot attraction: Journey Into Imagination With Figment! We discuss all three incarnations of the ride and dutifully try our best to honor Figment as the cultural and religious icon that he is. 
       </description>
       <itunes:keywords>figment,disney,epcot,dreamfinder,imagination</itunes:keywords>
+    </item>
+    <item>
+      <author>Julia Warner</author>
+      <itunes:author>Julia Warner</itunes:author>
+      <title>Space Mountain's Identity Crisis</title>
+      <pubDate>Fri, 22 Jan 2021 19:00:00 EST</pubDate>
+      <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep2.mp3" type="audio/mpeg" length="56359207" />
+      <itunes:duration>29:21</itunes:duration>
+      <guid isPermaLink="false">cepod02</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Julia is joined by her Mom and sister in this episode exploring the multiple themed overlays applied to the multiple Space Mountains across the globe and throughout history. Tune in to hear all about scary nebula ghosts, canonical Star Wars battles, and how much teens love the Red Hot Chili Peppers!
+      </description>
+      <itunes:keywords>disney,space mountain</itunes:keywords>
     </item>
   </channel>
 </rss>
