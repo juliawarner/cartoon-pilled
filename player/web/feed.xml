@@ -48,14 +48,28 @@ In this, our very first episode, Julia and Jin discuss the turbulant history of 
       <itunes:author>Julia Warner</itunes:author>
       <title>Space Mountain's Identity Crisis</title>
       <pubDate>Fri, 22 Jan 2021 19:00:00 EST</pubDate>
-      <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep2.mp3" type="audio/mpeg" length="56359207" />
       <itunes:duration>29:21</itunes:duration>
+      <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep2.mp3" type="audio/mpeg" length="56359207" />
       <guid isPermaLink="false">cepod02</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
 Julia is joined by her Mom and sister in this episode exploring the multiple themed overlays applied to the multiple Space Mountains across the globe and throughout history. Tune in to hear all about scary nebula ghosts, canonical Star Wars battles, and how much teens love the Red Hot Chili Peppers!
       </description>
       <itunes:keywords>disney,space mountain</itunes:keywords>
+    </item>
+    <item>
+      <author>Julia Warner</author>
+      <itunes:author>Julia Warner</itunes:author>
+      <title>Maelstrom v. Frozen</title>
+      <pubDate>Tues, 23 Feb 2021 22:30:00 EST</pubDate>
+      <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep3.mp3" type="audio/mpeg" length="60463566" />
+      <itunes:duration>31:29</itunes:duration>
+      <guid isPermaLink="false">silpod03</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Julia is joined by her friend Stephanie in this episode in honor of the late, great Maelstrom! May it rest in peace after being replaced by Frozen: Ever After! Tune in to hear all about very authentic Norwegian culture, how the two rides are similar, and whether or not Stephanie wants the three headed troll to be her boyfriend!
+      </description>
+      <itunes:keywords>disney,frozen,maelstrom,epcot</itunes:keywords>
     </item>
   </channel>
 </rss>
