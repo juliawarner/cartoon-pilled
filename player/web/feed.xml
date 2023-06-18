@@ -1,75 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xmlns:spotify="https://www.spotify.com/ns/rss">
   <channel>
-    <title>Stuck in Line</title>
-    <googleplay:author>Julia Warner</googleplay:author>
+    <title>Cartoon Pilled</title>
+    <googleplay:author>Julia and Stephanie</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Orlando, Florida</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Julia Warner</author>
-    <itunes:author>Julia Warner</itunes:author>
+    <author>Julia and Stephanie</author>
+    <itunes:author>Julia and Stephanie</itunes:author>
     <itunes:email>juliawarner004@gmail.com</itunes:email>
     <itunes:category text="Leisure" />
     <itunes:complete>no</itunes:complete>
     <itunes:type>episodic</itunes:type>
     <image>
-      <url>https://juliawarner.github.io/Stuck_in_Line/player/web/icons/SIL_Cover.png</url>
-      <title>Stuck in Line</title>
+      <url>https://juliawarner.github.io/cartoon-pilled/player/web/icons/cartoon_pilled_cover.png</url>
+      <title>Cartoon Pilled</title>
     </image>
     <itunes:owner>
       <itunes:name>Julia Warner</itunes:name>
       <itunes:email>juliawarner004@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>theme park,disney,universal,entertainment,Orlando</itunes:keywords>
-    <copyright>Julia Warner 2020</copyright>
-    <description>Join me as I share with my friends the kind of fun facts, stories, and history I would talk about if we were stuck in line at a theme park together!</description>
-    <googleplay:image href="https://juliawarner.github.io/Stuck_in_Line/player/web/icons/SIL_Cover.png" />
+    <itunes:keywords>cartoons,cartoon,teen titans,television,cartoon network,dc</itunes:keywords>
+    <copyright>Julia and Stephanie 2023</copyright>
+    <description>Join Julia and Stephanie, two cartoon pilled idiots, as they discuss their favorite cartoons episode by episode!</description>
+    <googleplay:image href="https://juliawarner.github.io/cartoon-pilled/player/web/icons/cartoon_pilled_cover.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Fri, 20 Nov 2020 13:00:00 EST</pubDate>
-    <link>https://juliawarner.github.io/Stuck_in_Line/player/web/feed.xml</link>
-    <itunes:image href="https://juliawarner.github.io/Stuck_in_Line/player/web/icons/SIL_Cover.png" />
+    <pubDate>Sat, 18 Jun 2023 13:00:00 EST</pubDate>
+    <link>https://juliawarner.github.io/cartoon-pilled/player/web/feed.xml</link>
+    <itunes:image href="https://juliawarner.github.io/cartoon-pilled/player/web/icons/cartoon_pilled_cover.png" />
     <item>
-      <author>Julia Warner</author>
-      <itunes:author>Julia Warner</itunes:author>
-      <title>Figment Lives!</title>
-      <pubDate>Mon, 28 Dec 2020 17:30:00 EST</pubDate>
-      <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep1.mp3" type="audio/mpeg" length="45230625" />
-      <itunes:duration>23:33</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <author>Julia and Stephanie</author>
+      <itunes:author>Julia and Stephanie</itunes:author>
+      <title>Teen Titans Ep. 1-3</title>
+      <pubDate>Sat, 18 Jun 2023 13:00:00 EST</pubDate>
+      <enclosure url="https://juliawarner.github.io/cartoon-pilled/player/web/audio/cartoon_pilled_ep_1.mp3" type="audio/mpeg" length="92166607" />
+      <itunes:duration>48:00</itunes:duration>
+      <guid isPermaLink="false">cppod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-In this, our very first episode, Julia and Jin discuss the turbulant history of everyone's favorite Epcot attraction: Journey Into Imagination With Figment! We discuss all three incarnations of the ride and dutifully try our best to honor Figment as the cultural and religious icon that he is. 
+In this episode, Julia and Stephanie discuess the first three episodes of Teen Titans, "Final Exam", "Sisters", and "Divide and Conquer". 
       </description>
-      <itunes:keywords>figment,disney,epcot,dreamfinder,imagination</itunes:keywords>
-    </item>
-    <item>
-      <author>Julia Warner</author>
-      <itunes:author>Julia Warner</itunes:author>
-      <title>Space Mountain's Identity Crisis</title>
-      <pubDate>Fri, 22 Jan 2021 19:00:00 EST</pubDate>
-      <itunes:duration>29:21</itunes:duration>
-      <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep2.mp3" type="audio/mpeg" length="56359207" />
-      <guid isPermaLink="false">cepod02</guid>
-      <itunes:explicit>no</itunes:explicit>
-      <description>
-Julia is joined by her Mom and sister in this episode exploring the multiple themed overlays applied to the multiple Space Mountains across the globe and throughout history. Tune in to hear all about scary nebula ghosts, canonical Star Wars battles, and how much teens love the Red Hot Chili Peppers!
-      </description>
-      <itunes:keywords>disney,space mountain</itunes:keywords>
-    </item>
-    <item>
-      <author>Julia Warner</author>
-      <itunes:author>Julia Warner</itunes:author>
-      <title>Maelstrom v. Frozen</title>
-      <pubDate>Tue, 23 Feb 2021 22:30:00 EST</pubDate>
-      <enclosure url="https://juliawarner.github.io/Stuck_in_Line/player/web/audio/Ep3.mp3" type="audio/mpeg" length="60463566" />
-      <itunes:duration>31:29</itunes:duration>
-      <guid isPermaLink="false">silpod03</guid>
-      <itunes:explicit>no</itunes:explicit>
-      <description>
-Julia is joined by her friend Stephanie in this episode in honor of the late, great Maelstrom! May it rest in peace after being replaced by Frozen: Ever After! Tune in to hear all about very authentic Norwegian culture, how the two rides are similar, and whether or not Stephanie wants the three headed troll to be her boyfriend!
-      </description>
-      <itunes:keywords>disney,frozen,maelstrom,epcot</itunes:keywords>
+      <itunes:keywords>cartoon,cartoons,teen titans</itunes:keywords>
     </item>
   </channel>
 </rss>
