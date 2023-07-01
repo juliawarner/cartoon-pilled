@@ -33,13 +33,27 @@
       <author>Julia and Stephanie</author>
       <itunes:author>Julia and Stephanie</itunes:author>
       <title>Teen Titans Ep. 1-3</title>
-      <pubDate>Sat, 18 Jun 2023 13:00:00 EST</pubDate>
+      <pubDate>Fri, 16 Jun 2023 13:00:00 EST</pubDate>
       <enclosure url="https://juliawarner.github.io/cartoon-pilled/player/web/audio/cartoon_pilled_ep_1.mp3" type="audio/mpeg" length="92166607" />
       <itunes:duration>48:00</itunes:duration>
       <guid isPermaLink="false">cppod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-In this episode, Julia and Stephanie discuess the first three episodes of Teen Titans, "Final Exam", "Sisters", and "Divide and Conquer". 
+In this episode, Julia and Stephanie discuss the first three episodes of Teen Titans, "Final Exam", "Sisters", and "Divide and Conquer". 
+      </description>
+      <itunes:keywords>cartoon,cartoons,teen titans</itunes:keywords>
+    </item>
+    <item>
+      <author>Julia and Stephanie</author>
+      <itunes:author>Julia and Stephanie</itunes:author>
+      <title>Teen Titans Ep. 4-7</title>
+      <pubDate>Fri, 30 Jun 2023 13:00:00 EST</pubDate>
+      <enclosure url="https://juliawarner.github.io/cartoon-pilled/player/web/audio/cartoon_pilled_ep_1.mp3" type="audio/mpeg" length="112282148" />
+      <itunes:duration>58:29</itunes:duration>
+      <guid isPermaLink="false">cppod02</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+In this episode, Julia and Stephanie discuss episodes 4-7 of Teen Titans: "Forces of Nature", "Sum of His Parts", "Nevermore", and "Switched".
       </description>
       <itunes:keywords>cartoon,cartoons,teen titans</itunes:keywords>
     </item>
