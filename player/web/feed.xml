@@ -57,5 +57,19 @@ In this episode, Julia and Stephanie discuss episodes 4-7 of Teen Titans: "Force
       </description>
       <itunes:keywords>cartoon,cartoons,teen titans</itunes:keywords>
     </item>
+    <item>
+      <author>Julia and Stephanie</author>
+      <itunes:author>Julia and Stephanie</itunes:author>
+      <title>Teen Titans Ep. 8-10</title>
+      <pubDate>Fri, 11 Aug 2023 13:00:00 EST</pubDate>
+      <enclosure url="https://juliawarner.github.io/cartoon-pilled/player/web/audio/cartoon_pilled_ep_3.mp3" type="audio/mpeg" length="63954360" />
+      <itunes:duration>44:25</itunes:duration>
+      <guid isPermaLink="false">cppod03</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+In this episode, Julia and Stephanie discuss episodes 8-10 of Teen Titans: "Deep Six", "Mask", and "Mad Mod".
+      </description>
+      <itunes:keywords>cartoon,cartoons,teen titans</itunes:keywords>
+    </item>
   </channel>
 </rss>
